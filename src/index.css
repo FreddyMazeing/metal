@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+  }
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+:root {
+  color-scheme: dark;
+}
+
+.content-div {
+  background: repeat;
+  background-size: cover;
+  background-position-x: 25%;
+  height: 900px;
+  scroll-behavior: smooth;
+  background-attachment: fixed;
+  filter: contrast(105%);
+}
