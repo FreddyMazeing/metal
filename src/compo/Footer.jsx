@@ -7,18 +7,17 @@ const Footer = () => {
   return (
     <footer className=" bg-gray-900 duration-1000 ease-in-out hover:from-blue-950 hover:bg-gradient-to-bl hover:to-black text-gray-500 p-4 flex flex-col items-center  sm:justify-between ">
       <nav className="grid grid-cols-4 m-6 sm:grid-cols-3 md:grid-cols-4 gap-4 sm:gap-20 text-center">
-        <div>
-          <a href="#" className="hover:text-gray-300">
-            About Us
-          </a>
-        </div>
-        <a href="#" className="hover:text-gray-300">
+        <a href="#" className="hover:text-gray-300 text-xs">
+          About Us
+        </a>
+
+        <a href="#" className="hover:text-gray-300 text-xs">
           Contact
         </a>
-        <a href="#" className="hover:text-gray-300">
+        <a href="#" className="hover:text-gray-300 text-xs">
           Work
         </a>
-        <a href="#" className="hover:text-gray-300">
+        <a href="#" className="hover:text-gray-300 text-xs">
           Legal
         </a>
       </nav>

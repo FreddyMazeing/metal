@@ -11,11 +11,14 @@ const Navbar = () => {
     <div
       className="fixed w-full  z-10
          h-[80px] text-gray-300 flex 
-        justify-between items-center px-4 backdrop-blur-lg bg-gradient-to-b  from-[#000] shadow-xl shadow-blue-600/10 "
+        justify-between items-center px-4 backdrop-blur-lg bg-gradient-to-b  from-[#000] shadow-md shadow-blue-600/10 "
     >
       {/* Logo */}
       <div>
-        <img src={logo} alt="logo" style={{ width: "60px" }} />
+        <Link to="home" smooth={true} duration={900}>
+          <img src={logo} alt="logo" style={{ width: "60px" }} />
+        </Link>
+
         {/* <h1 className="text-xs sm:text-xl font-bold tracking-widest text-gray-300 ">
           A.C.M.F
         </h1> */}

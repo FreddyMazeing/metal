@@ -74,23 +74,28 @@ const Homepage = () => {
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> industrial equipment</p>
+                <p className="my-1 sm:my-3 mx-2  "> industrial equipment</p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2">custom steel structures</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">
+                  custom steel structures
+                </p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> architecturial metalwork</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">
+                  {" "}
+                  architecturial metalwork
+                </p>
               </div>
             </div>
           </div>
@@ -103,23 +108,29 @@ const Homepage = () => {
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> renovations services</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">
+                  {" "}
+                  renovations services
+                </p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2">specialized builds</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">specialized builds</p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> ground-up construction</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">
+                  {" "}
+                  ground-up construction
+                </p>
               </div>
             </div>
           </div>
@@ -132,23 +143,26 @@ const Homepage = () => {
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> system upgrades</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs"> system upgrades</p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2">emergency repairs </p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">emergency repairs </p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> system installations</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">
+                  {" "}
+                  system installations
+                </p>
               </div>
             </div>
           </div>
@@ -161,29 +175,35 @@ const Homepage = () => {
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> maintanance service line</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">
+                  {" "}
+                  maintanance service line
+                </p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2">minor home repairs</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">minor home repairs</p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
                   {" "}
-                  <PiNutFill size={10} />{" "}
+                  <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2"> assembling furniture</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs">
+                  {" "}
+                  assembling furniture
+                </p>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="flex justify-evenly sm:mt-20   sm:py-5 rounded-xl">
+        <div className="flex justify-evenly sm:mt-20 my-10  sm:py-5 rounded-xl">
           <div className="sm:w-20 sm:h-20 w-10 h-10 text-center flex items-center justify-center  bg-blue-900/10 rounded-full shadow-xl shadow-blue-600 backdrop-blur-md">
             <h1 className="sm:text-5xl text-xl uppercase">A</h1>
           </div>

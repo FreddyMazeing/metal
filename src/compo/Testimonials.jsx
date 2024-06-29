@@ -34,7 +34,7 @@ const Testimonials = () => {
             </div>
             <h1 className="mt-4 uppercase text-sm text-gray-400">Steel Corp</h1>
             <h2 className="text-md uppercase font-bold">Lindsay M</h2>
-            <p className="text-start text-2xl sm:text-sm overflow-auto  text-gray-400 ">
+            <p className="text-start text-xs sm:text-sm overflow-auto  text-gray-400 ">
               I have been a customer of these guys since 2008,I have never had
               to find anyone else to do my steel works. AC Metal Fabricators is
               the best, I just love these guys. Keep on the goo works Abe!~
@@ -48,7 +48,7 @@ const Testimonials = () => {
             </div>
             <h1 className="mt-4 uppercase text-sm text-gray-400">VarnGaurd</h1>
             <h2 className="text-md ">Timothy C</h2>
-            <p className="text-end text-2xl sm:text-sm overflow-auto  text-gray-400 ">
+            <p className="text-end text-xs sm:text-sm overflow-auto  text-gray-400 ">
               They trully know what they are doing these guys. I cant wait to
               give them my next project l'm working on.I just can't wait! The
               way they finish tasks is incredibly fast~
@@ -64,7 +64,7 @@ const Testimonials = () => {
               Feneral Inc
             </h1>
             <h2 className="text-md ">Dumisani Dlamini</h2>
-            <p className="text-start text-2xl sm:text-sm overflow-auto  text-gray-400 ">
+            <p className="text-start text-xs sm:text-sm overflow-auto  text-gray-400 ">
               I love the way they handle customers.You are safe in their hands.I
               am incredibly fascinated by this cumpany's way of handling things~
             </p>
@@ -79,7 +79,7 @@ const Testimonials = () => {
               Timber Valley
             </h1>
             <h2 className="text-md  d">Ferdnand T</h2>
-            <p className="text-end text-2xl sm:text-sm overflow-auto  text-gray-400 ">
+            <p className="text-end text-xs sm:text-sm overflow-auto  text-gray-400 ">
               They have a gift of caring for customers. I have been with these
               guys for a long time.We get along really well ~
             </p>
@@ -92,7 +92,7 @@ const Testimonials = () => {
             </div>
             <h1 className="mt-4 uppercase text-sm text-gray-400">Steel Corp</h1>
             <h2 className="text-md  ">B . M . Phillips</h2>
-            <p className="text-start text-2xl sm:text-sm overflow-auto  text-gray-400 ">
+            <p className="text-start text-xs sm:text-sm overflow-auto  text-gray-400 ">
               AC Metal Fabricator is my go-to whenever i need something done
               proper, fast and affodable!~
             </p>
@@ -106,7 +106,7 @@ const Testimonials = () => {
               Machine Vien
             </h1>
             <h2 className="text-md  "> M . Vonbern</h2>
-            <p className="text-start text-2xl sm:text-sm overflow-auto  text-gray-400 ">
+            <p className="text-start text-xs sm:text-sm overflow-auto  text-gray-400 ">
               They helped me in a lot of ways. I believe in these guys .May
               their works live forever .They are the best we have so far .Keep
               on with the good work guys.~
