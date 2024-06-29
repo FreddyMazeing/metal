@@ -76,7 +76,10 @@ const Homepage = () => {
                   {" "}
                   <PiNutFill size={4} />{" "}
                 </span>
-                <p className="my-1 sm:my-3 mx-2  "> industrial equipment</p>
+                <p className="my-1 sm:my-3 mx-2 text-xs ">
+                  {" "}
+                  industrial equipment
+                </p>
               </div>
               <div className="flex items-center">
                 <span className="opacity-50">
