@@ -14,7 +14,7 @@ const App = () => {
       <Navbar />
       <Homepage />
       <div className="max-w-full min-h-screen bg-[#000000]">
-        <div className="max-w-[2000px] mx-auto">
+        <div className="max-w-6xl mx-auto">
           <Services />
           <Image />
           <GalleryLink />
